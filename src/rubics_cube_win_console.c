@@ -42,12 +42,8 @@
 
 #include "rubics_cube_win_console.h"
 
-#include <string.h>
-#include <stdio.h>
-#include <conio.h>
 #include <windows.h>
-#include <stdlib.h>
-#include <time.h>
+#include <conio.h>
 
 /******************************************************************************\
 **

@@ -42,6 +42,8 @@
 
 #include "rubics_cube_game.h"
 
+#include <time.h>
+
 /******************************************************************************\
 **
 **  LOCAL FUNCTION DEFINITIONS
